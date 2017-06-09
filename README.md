@@ -5,3 +5,8 @@ _Template for a MEAN stack based application_
 * [NodeJS](https://nodejs.org/)
 * [Angular2](https://angular.io/)
 * [MongoDB](https://www.mongodb.com/)
+
+
+live: http://shrouded-journey-24319.herokuapp.com
+
+
